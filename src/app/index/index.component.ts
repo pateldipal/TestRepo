@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import 'material-icons/iconfont/material-icons.scss';
 
 @Component({
   selector: 'app-index',
